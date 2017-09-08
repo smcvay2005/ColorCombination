@@ -1,0 +1,10 @@
+C:\Development\ColorComboChallenge\ColorComboChallenge\ColorComboChallenge\bin\Debug\ColorComboChallenge.exe.config
+C:\Development\ColorComboChallenge\ColorComboChallengeWorking\ColorComboChallenge\bin\Debug\ColorComboChallenge.exe.config
+C:\Development\ColorComboChallenge\ColorComboChallengeWorking\ColorComboChallenge\bin\Debug\ColorComboChallenge.exe
+C:\Development\ColorComboChallenge\ColorComboChallengeWorking\ColorComboChallenge\bin\Debug\ColorComboChallenge.pdb
+C:\Development\ColorComboChallenge\ColorComboChallengeWorking\ColorComboChallenge\obj\Debug\ColorComboChallenge.csprojResolveAssemblyReference.cache
+C:\Development\ColorComboChallenge\ColorComboChallengeWorking\ColorComboChallenge\obj\Debug\ColorComboChallenge.exe
+C:\Development\ColorComboChallenge\ColorComboChallengeWorking\ColorComboChallenge\obj\Debug\ColorComboChallenge.pdb
+D:\Development\FormFire\ColorComboChallengeComplete\ColorComboChallenge\bin\Debug\ColorComboChallenge.exe.config
+D:\Development\FormFire\ColorComboChallengeComplete\ColorComboChallenge\obj\Debug\ColorComboChallenge.exe
+D:\Development\FormFire\ColorComboChallengeComplete\ColorComboChallenge\obj\Debug\ColorComboChallenge.pdb
